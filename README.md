@@ -16,5 +16,5 @@ You can find the exercises I have completed at MyTrainingPath/exercism.org
 How to use VIM: https://app.ed.team/cursos/vim/01/04
 
 Refreshing SQL:
-with Mysql --> https://www.youtube.com/watch?v=uUdKAYl-F7g
-with Sqlite --> https://www.youtube.com/watch?v=DFg1V-rO6Pg
+With Mysql --> https://www.youtube.com/watch?v=uUdKAYl-F7g
+With Sqlite --> https://www.youtube.com/watch?v=DFg1V-rO6Pg
