@@ -11,7 +11,7 @@ Dockerfile can be found in /MyTrainingPath/Certified Python Course/ejercicios
 Refreshing Terminal commands: https://app.ed.team/cursos/terminal-linux/02/05
 
 "Practice makes a master". I am doing the Python exercise route at https://exercism.org/
-You can find the exercises I have completed at MyTrainingPath/exercism.org
+You can find the exercises I have completed at MyTrainingPath/exercism.org Python/
 
 How to use VIM: https://app.ed.team/cursos/vim/01/04
 
