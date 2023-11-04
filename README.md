@@ -18,3 +18,7 @@ How to use VIM: https://app.ed.team/cursos/vim/01/04
 Refreshing SQL:
 With Mysql --> https://www.youtube.com/watch?v=uUdKAYl-F7g
 With Sqlite --> https://www.youtube.com/watch?v=DFg1V-rO6Pg
+
+"Practice makes a master". I am doing the SQL exercises at https://www.sql-practice.com/
+
+I'm currently learning JavaScript at https://www.youtube.com/playlist?list=PLE8uP447fYpiBqMVF1hdWl9uFeVEeXRTm
