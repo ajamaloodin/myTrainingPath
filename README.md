@@ -4,6 +4,8 @@ In this repository, I am documenting my updated learning path as a developer.
 Udemy Python Course: https://www.udemy.com/course/python-total/
 Certificate can be found in MyTrainingPath/Certified Python Course/Certificado Python.pdf
 
+GIT/GITHUB: https://www.youtube.com/watch?v=VdGzPZ31ts8
+
 How to use DOCKER: https://www.youtube.com/watch?v=4Dko5W96WHg 
 I did some testing running a container with a Python light Image (3.12-alpine) with a simple Python app.
 Dockerfile can be found in /MyTrainingPath/Certified Python Course/ejercicios
