@@ -23,4 +23,8 @@ With Sqlite --> https://www.youtube.com/watch?v=DFg1V-rO6Pg
 
 "Practice makes a master". I am doing the SQL exercises at https://www.sql-practice.com/
 
-I'm currently learning JavaScript at https://www.youtube.com/playlist?list=PLE8uP447fYpiBqMVF1hdWl9uFeVEeXRTm
+I'm currently learning TypeScript at https://www.udemy.com/course/typescript-guia-completa/
+
+I'm currently learning PostgreSQL/PgAdmin at https://www.udemy.com/course/postgresql-y-pgadmin-diseno-administracion-y-consultas/
+
+
