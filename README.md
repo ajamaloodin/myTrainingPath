@@ -1,4 +1,5 @@
 # myTrainingPath
+```
 In this repository, I am documenting my updated learning path as a developer.
 
 Udemy Python Course: https://www.udemy.com/course/python-total/
@@ -22,6 +23,7 @@ With Mysql --> https://www.youtube.com/watch?v=uUdKAYl-F7g
 With Sqlite --> https://www.youtube.com/watch?v=DFg1V-rO6Pg
 
 "Practice makes a master". I am doing the SQL exercises at https://www.sql-practice.com/
+```
 
 I'm currently learning TypeScript at https://www.udemy.com/course/typescript-guia-completa/
 
