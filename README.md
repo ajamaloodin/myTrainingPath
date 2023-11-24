@@ -6,7 +6,7 @@ Udemy Python Course: https://www.udemy.com/course/python-total/
 Certificate can be found at MyTrainingPath/Certified Python Course/Certificado Python.pdf
 
 GIT/GITHUB: https://www.youtube.com/watch?v=VdGzPZ31ts8
-I finished a GIT/GITHUB course as well. Certificate can be found at myTrainingPath/Certified Git:Github Course
+I finished a GIT/GITHUB course as well. The certificate can be found at myTrainingPath/Certified Git:Github Course
 
 How to use DOCKER: https://www.youtube.com/watch?v=4Dko5W96WHg 
 I did some testing running a container with a Python light Image (3.12-alpine) with a simple Python app.
@@ -30,5 +30,8 @@ I'm currently learning Node.js
 I'm currently learning TypeScript at https://www.udemy.com/course/typescript-guia-completa/
 
 I'm currently learning PostgreSQL/PgAdmin at https://www.udemy.com/course/postgresql-y-pgadmin-diseno-administracion-y-consultas/
+
+I just finished a Professional Backend Course. The certificate can be found at myTrainingPath
+/Certified Profesional Backend Course/
 
 
