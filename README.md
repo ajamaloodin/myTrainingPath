@@ -1,37 +1,58 @@
-# myTrainingPath
+# My Learning Path as a Developer
+```
+Welcome to my personal development journey! In this repository,
+I am documenting my progress and the courses I've completed.
+```
+## Python Development
 
-In this repository, I am documenting my updated learning path as a developer.
+### Udemy Python Course
+- [Course Link](https://www.udemy.com/course/python-total/)
+- [Certificate](MyTrainingPath/Certified%20Python%20Course/Certificado%20Python.pdf)
 
-Udemy Python Course: https://www.udemy.com/course/python-total/
-Certificate can be found at MyTrainingPath/Certified Python Course/Certificado Python.pdf
+### GIT/GITHUB
+- [Course Link](https://www.youtube.com/watch?v=VdGzPZ31ts8)
+- [Certificate](MyTrainingPath/Certified%20Git:Github%20Course)
 
-GIT/GITHUB: https://www.youtube.com/watch?v=VdGzPZ31ts8
-I finished a GIT/GITHUB course as well. The certificate can be found at myTrainingPath/Certified Git:Github Course
+### Docker
+- [How to use DOCKER](https://www.youtube.com/watch?v=4Dko5W96WHg)
+- [Dockerfile](MyTrainingPath/Certified%20Python%20Course/ejercicios)
 
-How to use DOCKER: https://www.youtube.com/watch?v=4Dko5W96WHg 
-I did some testing running a container with a Python light Image (3.12-alpine) with a simple Python app.
-Dockerfile can be found in /MyTrainingPath/Certified Python Course/ejercicios
+### Terminal Commands
+- [Terminal Commands Refresh](https://app.ed.team/cursos/terminal-linux/02/05)
 
-Refreshing Terminal commands: https://app.ed.team/cursos/terminal-linux/02/05
+### Exercism.org Python Exercises
+- [Exercism Python Exercise Route](https://exercism.org/)
+- [My Completed Exercises](MyTrainingPath/exercism.org%20Python/)
 
-"Practice makes a master". I am doing the Python exercise route at https://exercism.org/
-You can find the exercises I have completed at /MyTrainingPath/exercism.org Python/
+### VIM
+- [How to use VIM](https://app.ed.team/cursos/vim/01/04)
 
-How to use VIM: https://app.ed.team/cursos/vim/01/04
+## SQL
 
-Refreshing SQL:
-With Mysql --> https://www.youtube.com/watch?v=uUdKAYl-F7g
-With Sqlite --> https://www.youtube.com/watch?v=DFg1V-rO6Pg
+### Refreshing SQL
+- [With MySQL](https://www.youtube.com/watch?v=uUdKAYl-F7g)
+- [With SQLite](https://www.youtube.com/watch?v=DFg1V-rO6Pg)
 
-"Practice makes a master". I am doing the SQL exercises at https://www.sql-practice.com/
+### SQL Practice
+- [SQL Exercises](https://www.sql-practice.com/)
 
-I'm currently learning Node.js
+## Ongoing Learning
 
-I'm currently learning TypeScript at https://www.udemy.com/course/typescript-guia-completa/
+- **Node.js**
+  - Currently learning Node.js
 
-I'm currently learning PostgreSQL/PgAdmin at https://www.udemy.com/course/postgresql-y-pgadmin-diseno-administracion-y-consultas/
+- **TypeScript**
+  - [TypeScript Course](https://www.udemy.com/course/typescript-guia-completa/)
 
-I just finished a Professional Backend Course. The certificate can be found at myTrainingPath
-/Certified Profesional Backend Course/
+- **PostgreSQL/PgAdmin**
+  - [PostgreSQL/PgAdmin Course](https://www.udemy.com/course/postgresql-y-pgadmin-diseno-administracion-y-consultas/)
+
+## Completed Courses
+
+
+- **Professional Backend Course**
+  - [Certificate](MyTrainingPath/Certified%20Profesional%20Backend%20Course/)
+
+
 
 
