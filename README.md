@@ -7,11 +7,11 @@ I am documenting my progress and the courses I've completed.
 
 ### Udemy Python Course
 - [Course Link](https://www.udemy.com/course/python-total/)
-- [Certificate](MyTrainingPath/Certified%20Python%20Course/Certificado%20Python.pdf)
+- [Certificate](MyTrainingPath/Certified Python Course/Certificado Python.pdf)
 
 ### GIT/GITHUB
 - [Course Link](https://www.youtube.com/watch?v=VdGzPZ31ts8)
-- [Certificate](MyTrainingPath/Certified%20Git:Github%20Course)
+- [Certificate](myTrainingPath/Certified Git:Github Course)
 
 ### Docker
 - [How to use DOCKER](https://www.youtube.com/watch?v=4Dko5W96WHg)
