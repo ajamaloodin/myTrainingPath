@@ -7,7 +7,7 @@ I am documenting my progress and the courses I've completed.
 
 ### Udemy Python Course
 - [Course Link](https://www.udemy.com/course/python-total/)
-- [Certificate](MyTrainingPath/Certified Python Course/Certificado Python.pdf)
+- [Certificate](https://github.com/ajamaloodin/myTrainingPath/tree/master/Certified%20Python%20Course))
 
 ### GIT/GITHUB
 - [Course Link](https://www.youtube.com/watch?v=VdGzPZ31ts8)
