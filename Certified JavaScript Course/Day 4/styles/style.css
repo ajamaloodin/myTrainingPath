@@ -1,0 +1,40 @@
+h1{
+    color: #020f4d;
+}
+
+.operators{
+  background-color:crimson;
+  border-radius: 6px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  margin-top: 0.5em;
+  margin-right: 0.8em;
+  outline: none;
+  padding: 10px 22px;
+}
+
+.math{
+  background-color:crimson;
+  border-radius: 6px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  margin-top: 0.5em;
+  margin-right: 1.4em;
+  outline: none;
+  padding: 10px 30px;
+}
+.resultado{
+    margin-top: 0.8em;
+}

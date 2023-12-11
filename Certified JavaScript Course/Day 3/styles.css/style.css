@@ -1,0 +1,47 @@
+body{
+    background-color:darkslateblue;
+}
+.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: Center;
+    color:lightseagreen
+}
+.instruction{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: Center;
+    color:crimson
+}
+.buttCont{
+    text-align: center;
+}
+.boton{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    background-color: green;
+}
+.boton:hover{
+    color:chartreuse;
+}
+.boton2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    background-color: red;
+}
+.boton2:hover{
+    color:bisque;
+}
+h2{
+    color:white;
+}
+.questions{
+    margin-left: 15em;
+}
+.sendBut{
+    background-color:gold;
+}
+#contador{
+    margin-left: 5em;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}

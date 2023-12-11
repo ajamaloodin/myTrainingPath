@@ -1,0 +1,61 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Five Questions Game</title>
+    <link rel="stylesheet" href="styles.css/style.css">
+</head>
+<body>
+    <h1 class="title">Five Questions Game</h1>
+    <h3 class="instruction">You got 30 sec to answer 5 questions.</h3>
+    <div class="buttCont">
+        <button class="boton" onclick="countdown()">START</button>
+        <span id="contador"></span>
+    </div>
+    <div class="questions">
+        <h2>1. what is 25 plus 5?</h2>
+        <input type="text" id="question1" >
+        <input class="sendBut" type="submit" value="send">
+
+        <h2>2. what is a rose?</h2>
+        <input type="text" id="question2" >
+        <input class="sendBut" type="submit" value="send">
+
+        <h2>3. what is a cat?</h2>
+        <input type="text" id="question3" >
+        <input class="sendBut" type="submit" value="send">
+
+        <h2>4. what day is today?</h2>
+        <input type="text" id="question4" >
+        <input class="sendBut" type="submit" value="send">
+
+        <h2>5. what your eyes color</h2>
+        <input type="text" id="question5" >
+        <input class="sendBut" type="submit" value="send">
+        <button class="boton2" onclick="ready()">READY</button>
+    </div>
+    <script>
+        let contadorElement = document.getElementById("contador");
+        let seconds = 30;
+        let intervalId;
+
+        function countdown(){
+            intervalId= setInterval(conteo,1000);
+        }
+        function conteo(){
+            contadorElement.textContent = String(seconds) + " sec";
+            if (seconds === 0) {
+                clearInterval(intervalId);
+                alert("GAME OVER");
+            }
+            else {
+                seconds = seconds - 1;
+            }
+        }
+        function ready() {
+            clearInterval(intervalId);
+            alert("Very Good!");
+        }
+    </script>
+</body>
+</html>

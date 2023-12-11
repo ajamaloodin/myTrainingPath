@@ -1,0 +1,16 @@
+.botones {
+    background-color:seagreen;
+    border-radius: 6px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    font-family :Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 20px;
+    margin-top: 0.5em;
+    margin-right: 0.8em;
+    outline: none;
+    padding: 10px 22px;
+  }
