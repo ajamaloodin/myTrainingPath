@@ -8,10 +8,20 @@ I am documenting my progress and the courses I've completed.
 - **Udemy Python Course**
    - [Course Link](https://www.udemy.com/course/python-total/)
    - [Certificate](https://github.com/ajamaloodin/myTrainingPath/blob/master/Certified%20Python%20Course/Certificado%20Python.pdf)
-
+     
 - **Exercism.org Python Exercises**
   - [Exercism Python Exercise Route](https://exercism.org/)
-  - [My Completed Exercises](MyTrainingPath/exercism.org%20Python/)
+  - [My Completed Exercises](https://github.com/ajamaloodin/myTrainingPath/blob/master/exercism.org%20Python)
+
+## JavaScript
+
+- **Udemy JavaScript Course**
+   - [Course Link](https://www.udemy.com/course/javascript-total/)
+   - [Certificate](https://github.com/ajamaloodin/myTrainingPath/blob/master/Certified%20JavaScript%20Course/Certificado%20Javascript.pdf)
+     
+- **Exercism.org JavaScript Exercises**
+  - [Exercism JavaScript Exercise Route](https://exercism.org/)
+  - [My Completed Exercises](https://github.com/ajamaloodin/myTrainingPath/blob/master/exercism.org%20JavaScript)
 
 ## GIT/GITHUB
 
@@ -21,7 +31,7 @@ I am documenting my progress and the courses I've completed.
 
 ## Docker
 - [YouTube Course](https://www.youtube.com/watch?v=4Dko5W96WHg)
-- [Dockerfile]([MyTrainingPath/Certified%20Python%20Course/ejercicios](https://github.com/ajamaloodin/myTrainingPath/blob/master/Certified%20Python%20Course/ejercicios/Dockerfile))
+- [Dockerfile](https://github.com/ajamaloodin/myTrainingPath/blob/master/Certified%20Python%20Course/ejercicios/Dockerfile)
 
 ## Terminal Commands
 - [EdTeam Course Link](https://app.ed.team/cursos/terminal-linux/02/05)
@@ -47,7 +57,7 @@ I am documenting my progress and the courses I've completed.
 ## Ongoing Learning
 
 - **Node.js**
-  - Currently learning Node.js
+  - [Node.js Course](https://www.udemy.com/course/node-de-cero-a-experto/)
 
 - **TypeScript**
   - [TypeScript Course](https://www.udemy.com/course/typescript-guia-completa/)
