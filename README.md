@@ -22,6 +22,11 @@ I am documenting my progress and the courses I've completed.
 - **Exercism.org JavaScript Exercises**
   - [Exercism JavaScript Exercise Route](https://exercism.org/)
   - [My Completed Exercises](https://github.com/ajamaloodin/myTrainingPath/blob/master/exercism.org%20JavaScript)
+ 
+## S.O.L.I.D and Clean Code
+
+- **Udemy JavaScript Course**
+   - [Course Link](https://www.udemy.com/course/solid-clean/)
 
 ## GIT/GITHUB
 
