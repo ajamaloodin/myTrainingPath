@@ -69,8 +69,9 @@ I am documenting my progress and the courses I've completed.
 ## Ongoing Learning
 
 - **Node.js**
-  - [Node.js Course](https://www.udemy.com/course/node-de-cero-a-experto/)
-
+  - [Node.js Course 1](https://www.udemy.com/course/node-de-cero-a-experto/)
+  - [Node.js Course 2](https://www.udemy.com/course/nodejs-bootcamp-desarrollo-web-mvc-y-rest-apis/)
+    
 - **TypeScript**
   - [TypeScript Course](https://www.udemy.com/course/typescript-guia-completa/)
 
