@@ -52,7 +52,9 @@ I am documenting my progress and the courses I've completed.
 ## Docker
 
 - [YouTube Course](https://www.youtube.com/watch?v=4Dko5W96WHg)
-- [Dockerfile](https://github.com/ajamaloodin/myTrainingPath/blob/master/Certified%20Python%20Course/ejercicios/Dockerfile)
+- [Course Link](https://codigofacilito.com/cursos/docker/)
+- [Certificate](https://github.com/ajamaloodin/myTrainingPath/blob/master/Certified%20Profesional%20Docker%20Course/Certificado%20-%20Curso%20Profesional%20de%20Docker.pdf)
+- 
 
 ## Scrum Foundation
 
