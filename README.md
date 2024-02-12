@@ -23,6 +23,9 @@ I am documenting my progress and the courses I've completed.
   - [Exercism JavaScript Exercise Route](https://exercism.org/)
   - [My Completed Exercises](https://github.com/ajamaloodin/myTrainingPath/blob/master/exercism.org%20JavaScript)
  
+## Node.JS
+- [Node.js Course](https://www.udemy.com/course/node-de-cero-a-experto/): NODE from Zero to Expert
+ 
 ## S.O.L.I.D and Clean Code
 
 - **Udemy JavaScript Course**
@@ -33,15 +36,6 @@ I am documenting my progress and the courses I've completed.
 - **Professional Backend Course**
   - [Course Link](https://codigofacilito.com/cursos/backend-profesional)
   - [Certificate](MyTrainingPath/Certified%20Profesional%20Backend%20Course/)
- 
-## SQL
-
-- **Refreshing SQL**
-  - [With MySQL](https://www.youtube.com/watch?v=uUdKAYl-F7g)
-  - [With SQLite](https://www.youtube.com/watch?v=DFg1V-rO6Pg)
-
-- **SQL Practice**
-  - [SQL Exercises](https://www.sql-practice.com/)
 
 ## GIT/GITHUB
 
@@ -60,6 +54,15 @@ I am documenting my progress and the courses I've completed.
 
 - [Certificate](https://github.com/ajamaloodin/myTrainingPath/blob/master/Scrum%20Foundation/Scrum%20Certificate.pdf)
 
+## SQL
+
+- **Refreshing SQL**
+  - [With MySQL](https://www.youtube.com/watch?v=uUdKAYl-F7g)
+  - [With SQLite](https://www.youtube.com/watch?v=DFg1V-rO6Pg)
+
+- **SQL Practice**
+  - [SQL Exercises](https://www.sql-practice.com/)
+
 ## Terminal Commands
 
 - [EdTeam Course Link](https://app.ed.team/cursos/terminal-linux/02/05)
@@ -70,15 +73,12 @@ I am documenting my progress and the courses I've completed.
 
 ## Ongoing Learning
 
-- **Node.js**
-  - [Node.js Course 1](https://www.udemy.com/course/node-de-cero-a-experto/): NODE from Zero to Expert
-  - [Node.js Course 2](https://www.udemy.com/course/nodejs-bootcamp-desarrollo-web-mvc-y-rest-apis/): NODE.JS Bootcamp - Web Development - MVC - REST APIs
+- **Nest framework**
+  - [Nest Course](https://cursos.devtalles.com/courses/nest): Scalable Backend Development with Node.JS 
     
 - **TypeScript**
   - [TypeScript Course](https://www.udemy.com/course/typescript-guia-completa/)
 
-- **PostgreSQL/PgAdmin**
-  - [PostgreSQL/PgAdmin Course](https://www.udemy.com/course/postgresql-y-pgadmin-diseno-administracion-y-consultas/)
 
 
 
