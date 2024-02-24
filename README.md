@@ -25,6 +25,10 @@ I am documenting my progress and the courses I've completed.
  
 ## Node.JS
 - [Node.js Course](https://www.udemy.com/course/node-de-cero-a-experto/): NODE from Zero to Expert
+
+## Nest.JS
+- [Course link](https://cursos.devtalles.com/courses/nest): Scalable Backend Development with Node.JS
+- [Certificate](https://github.com/ajamaloodin/myTrainingPath/blob/master/Certified%20Nest-js%20Course/Certificado%20Nest-js.pdf)
  
 ## S.O.L.I.D and Clean Code
 
@@ -72,12 +76,9 @@ I am documenting my progress and the courses I've completed.
 - [EdTeam Course Link](https://app.ed.team/cursos/vim/01/04)
 
 ## Ongoing Learning
-
-- **Nest framework**
-  - [Nest Course](https://cursos.devtalles.com/courses/nest): Scalable Backend Development with Node.JS 
     
-- **TypeScript**
-  - [TypeScript Course](https://www.udemy.com/course/typescript-guia-completa/)
+- **AWS**
+  - [AWS Cloud Practitioner Essentials]
 
 
 
