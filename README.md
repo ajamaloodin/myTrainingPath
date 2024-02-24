@@ -39,7 +39,7 @@ I am documenting my progress and the courses I've completed.
 
 - **Professional Backend Course**
   - [Course Link](https://codigofacilito.com/cursos/backend-profesional)
-  - [Certificate](MyTrainingPath/Certified%20Profesional%20Backend%20Course/)
+  - [Certificate](https://github.com/ajamaloodin/myTrainingPath/blob/master/Certified%20Profesional%20Backend%20Course/Certificado%20-%20Curso%20Profesional%20de%20Backend.pdf)
 
 ## GIT/GITHUB
 
