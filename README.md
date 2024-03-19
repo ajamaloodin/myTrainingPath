@@ -66,6 +66,13 @@ I am documenting my progress and the courses I've completed.
 
 - **SQL Practice**
   - [SQL Exercises](https://www.sql-practice.com/)
+ 
+## AWS
+- **AWS Cloud Practitioner Essentials**
+- [Certificate](https://github.com/ajamaloodin/myTrainingPath/blob/master/Certified%20Nest-js%20Course/Certificado%20Nest-js.pdf)
+- **AWS Job Roles in the Cloud**
+- [Certificate](https://github.com/ajamaloodin/myTrainingPath/blob/master/Certified%20Nest-js%20Course/Certificado%20Nest-js.pdf)
+
 
 ## Terminal Commands
 
@@ -78,7 +85,7 @@ I am documenting my progress and the courses I've completed.
 ## Ongoing Learning
     
 - **AWS**
-  - [AWS Cloud Practitioner Essentials]
+  - [AWS Technical Essentials]
 
 
 
