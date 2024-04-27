@@ -72,6 +72,8 @@ I am documenting my progress and the courses I've completed.
 - [Certificate](https://github.com/ajamaloodin/myTrainingPath/blob/master/Certified%20AWS%20Courses/1420_3_4959183_1709219035_AWS%20Course%20Completion%20Certificate.pdf)
 - **AWS Job Roles in the Cloud**
 - [Certificate](https://github.com/ajamaloodin/myTrainingPath/blob/master/Certified%20AWS%20Courses/12489_3_4959183_1707927933_AWS%20Course%20Completion%20Certificate.pdf)
+- **AWS Technical Essentials**
+- [Certificate](https://github.com/ajamaloodin/myTrainingPath/blob/master/Certified%20AWS%20Courses/7854_3_4959183_1714252373_AWS%20Course%20Completion%20Certificate.pdf)
 
 
 ## Terminal Commands
@@ -84,8 +86,8 @@ I am documenting my progress and the courses I've completed.
 
 ## Ongoing Learning
     
-- **AWS**
-  - [AWS Technical Essentials]
+- **React**
+
 
 
 
